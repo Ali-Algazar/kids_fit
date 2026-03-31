@@ -67,7 +67,6 @@ class AppTextStyles {
     fontWeight: FontWeight.w500, // Medium
   );
 
-  // label حقول الادخال بالانجليزي - 14/20
   static const TextStyle labelEn = TextStyle(
     fontSize: 14,
     height: 20 / 14, // ~1.43
