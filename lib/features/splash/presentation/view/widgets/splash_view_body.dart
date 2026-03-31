@@ -1,6 +1,5 @@
 import 'dart:ui';
 import 'package:flutter/material.dart';
-import 'package:flutter_svg/flutter_svg.dart';
 import 'package:kids_fit/core/extensions/extensions.dart';
 import 'package:kids_fit/core/utils/app_text_styles.dart';
 import 'package:kids_fit/features/onboarding/presentation/view/onboarding_view.dart';
